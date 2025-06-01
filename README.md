@@ -8,7 +8,7 @@ The app supports two roles:
 - **Performance Visualization**: View student progress with charts showing scores and success rates across multiple exams.
 - **Color-Coded Feedback**: Automatically highlights strong and weak results using success rate-based color indicators.
 - **PDF & CSV Export**: Easily generate and download detailed exam reports for individual students or overall data summaries.
-- **OCR & PDF Integration**: Automatically extracts correct, wrong, and blank answer counts from scanned answer sheets or PDF files.
+- **PDF Integration**: Automatically extracts correct, wrong, and blank answer counts from scanned PDF files.
 - **Multi-Exam Tracking**: Each mock exam is listed separately, and clicking on one reveals detailed performance data.
 - **Report Viewer**: Generate and export detailed student reports in PDF format based on selected exams.
 - **Database Integration**: Uses MySQL to store all student and exam data securely and efficiently.
