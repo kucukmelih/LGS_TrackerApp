@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGS_Tracker", "LGS_Tracker.csproj", "{37DB65BF-4D10-4989-9939-619262083A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37DB65BF-4D10-4989-9939-619262083A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DB65BF-4D10-4989-9939-619262083A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DB65BF-4D10-4989-9939-619262083A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DB65BF-4D10-4989-9939-619262083A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09BC255B-4830-42C5-AEDB-E72AF0D8A93E}
+	EndGlobalSection
+EndGlobal
